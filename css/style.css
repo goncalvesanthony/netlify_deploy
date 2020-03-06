@@ -562,7 +562,8 @@ button:focus{
 
 .contact-imfo-box{
 	background: #d0a772;
-	padding: 10px 0;
+	padding-bottom: 5px;
+	padding-top: 5px;
 }
 
 .overflow-hidden {
@@ -583,16 +584,15 @@ button:focus{
 	-moz-border-radius: 50%;
 	-ms-border-radius: 50%;
 	border-radius: 50%;
-	margin-right: 10px;
+	margin-top: 20px;
 }
 .contact-imfo-box h4 {
-    margin: 0px;
-    margin-top: 5px;
 	color: #ffffff;
 	font-size: 20px;
-	padding: 0px;
+	padding: 10px;
 	font-weight: 500;
 	line-height: 24px;
+	
 }
 .contact-imfo-box p {
     margin: 0px;
