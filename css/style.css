@@ -163,13 +163,14 @@ button:focus{
 }
 
 .top-navbar .navbar{
-	padding: 15px 0px;
+	padding: 0px;
 	position: fixed;
 	width: 100%;
 	transition: height .3s ease-out, background .3s ease-out, box-shadow .3s ease-out;
 	-webkit-transform: translate3d(0, 0, 0);
 	transform: translate3d(0, 0, 0);
 	z-index: 100;
+
 }
 
 .top-navbar .navbar-light .navbar-nav .nav-link{
